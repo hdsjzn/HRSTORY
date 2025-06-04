@@ -7,7 +7,7 @@
 - Please refer to the external [link](https://www.dropbox.com/sh/fu4i5lghdq18cfs/AABZvrPRXs2qal9rlpnFicBDa?dl=0)
   - Newsfeed14 ([original source](https://github.com/Priberam/news-clustering/blob/master/download_data.sh))
   - WCEP18, WCEP19 ([original source](https://github.com/complementizer/wcep-mds-dataset))
-  - Preprocessed case study results
+
   
 ### Preprocessing
 Run dataset.py with each of the raw data sets.
